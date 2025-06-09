@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+# Royal Quran Academy, Run by Islamiya Pirachara Kazhagam
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
